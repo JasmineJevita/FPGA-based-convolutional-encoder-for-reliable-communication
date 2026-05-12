@@ -1,7 +1,4 @@
 # FPGA-based-convolutional-encoder-for-reliable-communication
-Department of Electronics and Communication Engineering
-Course: DDHDL Verilog (22ECE42) | Semester: Fourth
-Guide: P.C. Vijay Ganesh, Assistant Professor (B.E., M.Tech, MIEEE)
 
 # Project Overview
 This project implements a Rate 1/2 Convolutional Encoder on FPGA to improve the reliability of digital data transmission over noisy communication channels. The system takes an 8-bit input, encodes it using shift registers and XOR logic, and passes it through BPSK modulation and an AWGN channel model. The encoder operates at 80 MHz clock and is verified through simulation using Vivado 2018.2.
